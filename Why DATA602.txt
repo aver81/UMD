@@ -1,8 +1,0 @@
-Question: Why are you interested in taking DATA602?
-Answer: Ever since I started working in Mu Sigma Inc in 2022, I was thrown into the analytics field, specifically the 
-Supply Chain aspect of the Retail industry. I had the chance to use, learn and understand several machine learning algorithms.
-After working there, I realized the potential of the field and that I want to continue working here. My purpose of taking 
-this course is to cement my existing learnings, while enhancing and refining everything I learnt in my professional life. 
-I want to perfect my ability to approach and breakdown any problem using the step-by-step process outlines recently 
-by Prof Fardina Alam. Lastly, I want to be able to tackle real world challenges through this course and give back to the
-DS community in some way or the other. 
