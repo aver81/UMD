@@ -19,5 +19,5 @@ Dependencies:
 
 1. Create Python Virtual env
 2. Run the requirements file
-3. Run Command - ```python main.py```
+3. Run Command : ```python main.py```
 
