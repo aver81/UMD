@@ -3,7 +3,9 @@
 ## Setup Details
 
 Python Version : 3.12.7
+
 Laptop Constraints: CPU
+
 Dependencies:
   1. torch==2.2.2
   2. torchtext==0.17.2
