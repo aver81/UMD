@@ -21,3 +21,7 @@ Dependencies:
 2. Run the requirements file
 3. Run Command : ```python main.py```
 
+## Output Files
+1. CSV file labelled ```metrics.csv```
+
+## Expected runtime (for all model configurations) - 2.5 hours
